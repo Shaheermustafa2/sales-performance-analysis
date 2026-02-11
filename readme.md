@@ -35,7 +35,7 @@
 
 #### **Dashboard Preview**
 
-![Page 1](screenshots/page1_overview.png)
-![Page 2](screenshots/page2_rfm.png)
-![Page 3](screenshots/page3_retention.png)
+![Page 1](https://github.com/Shaheermustafa2/sales-performance-analysis/blob/main/screenshots/Screenshot%202026-02-11%20190024.png)
+![Page 2](https://github.com/Shaheermustafa2/sales-performance-analysis/blob/main/screenshots/Screenshot%202026-02-11%20190059.png)
+![Page 3](https://github.com/Shaheermustafa2/sales-performance-analysis/blob/main/screenshots/Screenshot%202026-02-11%20190125.png)
 
